@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Data Analyst</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #007BFF;
+            padding: 1em 0;
+            text-align: center;
+        }
+
+        header h1 {
+            color: #fff;
+            margin: 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #007BFF;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Data Analyst</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a passionate data analyst with a strong background in statistical analysis and data visualization.
+            I enjoy deriving insights from data and presenting them in a way that is easy to understand.
+        </p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Data Analysis</li>
+            <li>Statistical Modeling</li>
+            <li>Data Visualization (using tools like Tableau, matplotlib, seaborn)</li>
+            <li>SQL</li>
+            <li>Python</li>
+            <li>Excel</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <strong>Project 1:</strong> Analyzing customer behavior using SQL queries.
+            </li>
+            <li>
+                <strong>Project 2:</strong> Building a predictive model for sales forecasting using Python.
+            </li>
+            <!-- Add more projects as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>
+            Feel free to contact me via email at <a href="mailto:your.email@example.com">your.email@example.com</a>.
+        </p>
+    </section>
+
+    <footer>
+        &copy; 2023 Your Name - Data Analyst
+    </footer>
+
+</body>
+</html>
